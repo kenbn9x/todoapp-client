@@ -1,0 +1,14 @@
+.main {
+  width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.title {
+  padding: 10px 10px 10px 10px;
+  text-align: left;
+  background: #ccc;
+}
+form {
+  padding: 20px;
+  width: 100%;
+}
